@@ -1,2 +1,2 @@
 # job-and-salaries-in-data-science
-In this project we used dataset from Kaggle. We used python for data cleaning, visualization and analysis. After that we drew meaningful insights from the data to help job seekers and employers. We have also created a Power BI dashboard to visualize the data in an efficient way.
+In this project, I utilized Python for data cleaning, visualization, and analysis to extract meaningful insights from the data. I employed data visualization techniques to create an interactive Power BI dashboard, enhancing the efficiency of data presentation. The project provided actionable insights to assist job seekers in understanding trends and patterns in the data science job market.
